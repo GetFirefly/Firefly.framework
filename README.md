@@ -1,6 +1,6 @@
 # Firefly.framework for iOS
 
-### Please note, this framework is in a highly experimental alpha-state.
+### Now available as fat armv7, armv7s arm64 and i386 binary
 
 Firefly is a Service to server you with the hottest parties around. Please note: At the moment of this release, there are only a few locations available for testing purpose.
 
